@@ -5,10 +5,8 @@ typedef long long ll;
 #define agewari(a, b) ((long long)a + ((long long)b - 1)) / b
 const long long MOD = 1000000007;
 const long long INF = 1LL << 60;
-int main()
-{
-    ll n;
-    string s;
-    cin>>n>>s;
-    
+int main() {
+  ll n;
+  string s;
+  cin >> n >> s;
 }
